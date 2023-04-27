@@ -1,2 +1,2 @@
 # computer_vision_implementation
-Implementation of AI paper in Computer Vision
+Implementation of AI papers in Computer Vision
